@@ -14,4 +14,4 @@ cmd에서 실행하는 방법
 1. 파일이 있는 해당 디렉토리로 찾아간다.  
 2. "node 파일명.js`" 입력한다.
 
-200810 https://opentutorials.org/course/3332/21032
+200908 https://opentutorials.org/course/3332/21046
